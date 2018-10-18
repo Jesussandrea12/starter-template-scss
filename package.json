@@ -1,0 +1,32 @@
+{
+  "name": "starter-template",
+  "version": "3.3.0",
+  "description": "starter-template for simple pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jesussandrea12/jesussandrea12.github.io.git"
+  },
+  "author": "@jesussandrea12",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jesussandrea12/jesussandrea12.github.io/issues"
+  },
+  "homepage": "https://github.com/Jesussandrea12/jesussandrea12.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-scss": "^1.4.0",
+    "postcss": "^6.0.5",
+    "postcss-custom-properties": "^6.1.0"
+  },
+  "dependencies": {}
+}
